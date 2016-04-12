@@ -1,0 +1,6 @@
+c:\Users\nachanta\documents\visual studio 2013\Projects\ohmValue\WebApplication1\bin\WebApplication1.dll.config
+c:\Users\nachanta\documents\visual studio 2013\Projects\ohmValue\WebApplication1\bin\WebApplication1.dll
+c:\Users\nachanta\documents\visual studio 2013\Projects\ohmValue\WebApplication1\bin\WebApplication1.pdb
+c:\Users\nachanta\documents\visual studio 2013\Projects\ohmValue\WebApplication1\obj\Debug\WebApplication1.dll
+c:\Users\nachanta\documents\visual studio 2013\Projects\ohmValue\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\nachanta\Documents\Visual Studio 2013\Projects\ohmValue\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache

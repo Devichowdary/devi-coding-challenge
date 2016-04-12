@@ -1,0 +1,5 @@
+c:\users\nachanta\documents\visual studio 2013\Projects\ohmValue\ohmValue\bin\ohmValue.dll.config
+c:\users\nachanta\documents\visual studio 2013\Projects\ohmValue\ohmValue\bin\ohmValue.dll
+c:\users\nachanta\documents\visual studio 2013\Projects\ohmValue\ohmValue\bin\ohmValue.pdb
+c:\users\nachanta\documents\visual studio 2013\Projects\ohmValue\ohmValue\obj\Debug\ohmValue.dll
+c:\users\nachanta\documents\visual studio 2013\Projects\ohmValue\ohmValue\obj\Debug\ohmValue.pdb
